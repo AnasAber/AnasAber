@@ -50,7 +50,7 @@
 <br>
 
 <div align=center> 
-    [ambient_gradient_repo]: https://github-readme-stats.vercel.app/api/pin/?username=AnasAber&repo=github-readme-stats&cache_seconds=86400&theme=ambient_gradient
+    [apprentice]: https://github-readme-stats.vercel.app/api/pin/?username=AnasAber&repo=github-readme-stats&cache_seconds=86400&theme=ambient_gradient
 <br/><br/>
 </div>
 <hr/>
