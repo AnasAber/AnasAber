@@ -48,9 +48,19 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
+<!-- apprentice -->
+<div align="center">
 
-<div align=center> 
-    [apprentice]: https://github-readme-stats.vercel.app/api/pin/?username=AnasAber&repo=github-readme-stats&cache_seconds=86400&theme=ambient_gradient
-<br/><br/>
+![apprentice](https://github-readme-stats.vercel.app/api?username=AnasAber&show_icons=true&theme=apprentice)<br/><br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnasAber)](https://github.com/AnasAber/github-readme-stats)
+
 </div>
+
 <hr/>
+
+<h2 align="center">📕 My blog posts 📕</h2>
+
+<!-- Linear Regression Assumptions: <a src="https://medium.com/@anas.aberchih1/ensuring-model-estimation-validity-a-deep-dive-into-linear-regression-assumptions-b2e9c07e1a16">here</a> -->
+
+
+
