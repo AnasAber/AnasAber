@@ -20,7 +20,7 @@
  
  📫 How to reach me: [here](https://www.linkedin.com/in/anas-aberchih-%F0%9F%87%B5%F0%9F%87%B8-b6007121b/)
  
- ⚡ Fun fact: You can make faces out of car front (☞ﾟヮﾟ)☞
+ ⚡ Fun fact: You can't spell Millions without a couple Ls (☞ﾟヮﾟ)☞
 
  </div>
 
