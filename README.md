@@ -55,7 +55,9 @@
 
 <h2 align="center">📕 My blog posts 📕</h2>
 
-<!-- Linear Regression Assumptions: <a src="https://medium.com/@anas.aberchih1/ensuring-model-estimation-validity-a-deep-dive-into-linear-regression-assumptions-b2e9c07e1a16">here</a> -->
+<h2 align="center">
+    Linear Regression Assumptions: <a src="https://medium.com/@anas.aberchih1/ensuring-model-estimation-validity-a-deep-dive-into-linear-regression-assumptions-b2e9c07e1a16">here</a>
+</h2>
 
 
 
