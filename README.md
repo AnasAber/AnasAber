@@ -55,9 +55,6 @@
 
 <h2 align="center">📕 My blog posts 📕</h2>
 
-<h2 align="center">
-    [Linear Regression Assumptions]([https://yourblog.com/adding-links-in-readmes](https://medium.com/@anas.aberchih1/ensuring-model-estimation-validity-a-deep-dive-into-linear-regression-assumptions-b2e9c07e1a16).
-</h2>
-
-
+Linear Regression Assumptions:
+<a href="[URL of your blog post](https://yourblog.com/adding-links-in-readmes](https://medium.com/@anas.aberchih1/ensuring-model-estimation-validity-a-deep-dive-into-linear-regression-assumptions-b2e9c07e1a16)https://yourblog.com/adding-links-in-readmes](https://medium.com/@anas.aberchih1/ensuring-model-estimation-validity-a-deep-dive-into-linear-regression-assumptions-b2e9c07e1a16" style="background-color: #4CAF50; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px;">Here</a>
 
