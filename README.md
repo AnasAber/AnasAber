@@ -15,9 +15,7 @@
  🤔 I’m looking for a nice summer **internship**
  
  🔭 I’m a Masters student learning **Data Science, Machine learning and Deep Learning**
- 
- 💬 Ask me about **python,scikit-learn,pandas**
- 
+  
  📫 How to reach me: [here](https://www.linkedin.com/in/anas-aberchih-%F0%9F%87%B5%F0%9F%87%B8-b6007121b/)
  
  ⚡ Fun fact: You can't spell Millions without a couple Ls (☞ﾟヮﾟ)☞
