@@ -51,7 +51,11 @@
 </div>
 
 <h2 align="center">📕 My blog posts 📕</h2>
+<div align="center">
+    
+Generative Models 🌸: [here](https://medium.com/@anas.aberchih1/blooming-of-generative-models-8e70f3070be4)
 
 Linear Regression Assumptions:[here](https://medium.com/@anas.aberchih1/ensuring-model-estimation-validity-a-deep-dive-into-linear-regression-assumptions-b2e9c07e1a16)
 
+</div>
 
