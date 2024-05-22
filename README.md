@@ -10,7 +10,7 @@
 
 <div align="center">
   
- 🌱 I’m currently learning **Generative Models** (⌐■_■)
+ 🌱 I’m currently learning **Generative AI** (⌐■_■)
  
  🤔 I’m looking for a nice summer **internship**
  
@@ -53,9 +53,15 @@
 <h2 align="center">📕 My blog posts 📕</h2>
 <div align="center">
     
+<h4 align="center"> 
+    
 Generative Models 🌸: [here](https://medium.com/@anas.aberchih1/blooming-of-generative-models-8e70f3070be4)
+</h4>
 
+<h4 align="center">  
+    
 Linear Regression Assumptions:[here](https://medium.com/@anas.aberchih1/ensuring-model-estimation-validity-a-deep-dive-into-linear-regression-assumptions-b2e9c07e1a16)
+</h4>
 
 </div>
 
