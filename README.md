@@ -4,13 +4,13 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Anas+Aberchih!;" />
 </h1>
 
-<h3 align="center">A junior data scientist and Machine learning enthusiast 🇲🇦</h3>
+<h3 align="center">A junior AI Engineer and Generative AI enthusiast 🇲🇦</h3>
 
 <br/>
 
 <div align="center">
   
- 🌱 I’m currently learning **Generative AI** (⌐■_■)
+ 🌱 I’m currently learning **Advanced RAG systems** (⌐■_■)
  
  🤔 I’m looking for a nice summer **internship**
  
@@ -35,7 +35,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,cpp,java,git,docker,vscode,github,mysql,flask,laravel,html,css,notion" />
+    <img src="https://skillicons.dev/icons?i=python,sklearn,keras,java,git,docker,flask,cpp,vscode,github,mysql,laravel,html,css,notion" />
 </div>
 
 <br/>
