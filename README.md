@@ -10,10 +10,8 @@
 
 <div align="center">
   
- 🌱 I’m currently learning **Advanced RAG systems** (⌐■_■)
- 
- 🤔 I’m looking for a nice summer **internship**
- 
+ 🌱 I’m currently learning **LLM Agents & Advanced RAG systems** (⌐■_■)
+  
  🔭 I’m a Masters student learning **Data Science, Machine learning and Deep Learning**
   
  📫 How to reach me: [here](https://www.linkedin.com/in/anas-aberchih-%F0%9F%87%B5%F0%9F%87%B8-b6007121b/)
@@ -35,7 +33,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,sklearn,keras,java,git,docker,flask,cpp,vscode,github,mysql,laravel,html,css,notion" />
+    <img src="https://skillicons.dev/icons?i=python,sklearn,pytorch,flask,git,docker,aws,cpp,vscode,github,mysql,django,postman,notion" />
 </div>
 
 <br/>
