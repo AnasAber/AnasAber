@@ -50,6 +50,18 @@
 
 <h2 align="center">📕 My blog posts 📕</h2>
 <div align="center">
+
+<h4 align="center"> 
+    
+The Poetic Craft of PEFT: A Journey with LoRA & QLoRA 🍁: [here](https://medium.com/@anas.aberchih1/the-poetic-craft-of-peft-a-journey-with-lora-qlora-55ee6cad227b)
+
+</h4>
+
+<h4 align="center"> 
+    
+Supervised Fine-tuning dilemma 🥀: [here](https://medium.com/@anas.aberchih1/supervised-fine-tuning-dilemma-whats-up-with-all-those-configurations-a1f9040bb74e)
+
+</h4>
     
 <h4 align="center"> 
     
