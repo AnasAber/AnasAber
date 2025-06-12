@@ -4,13 +4,13 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Anas+Aberchih!;" />
 </h1>
 
-<h3 align="center">A junior AI Engineer and Generative AI enthusiast 🇲🇦</h3>
+<h3 align="center">A junior Machine Learning & Software Engineer 🇲🇦</h3>
 
 <br/>
 
 <div align="center">
   
- 🌱 I’m currently learning **LLM Agents & Advanced RAG systems** (⌐■_■)
+ 🌱 I’m currently learning **MLOps and how to keep things running outside of my machine** (⌐■_■)
   
  🔭 I’m a Masters student learning **Data Science, Machine learning and Deep Learning**
   
