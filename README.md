@@ -38,26 +38,25 @@
 
 
 
-<h2 align="center">📕 My blog posts 📕</h2>
+<h2 align="center"><samp> 📕 My blog posts </samp></h2>
 <div align="center">
 
-
-<h4 align="center"> 
+<p align="center">
 <samp>The Poetic Craft of PEFT: A Journey with LoRA & QLoRA 🍁: <a href="https://medium.com/@anas.aberchih1/the-poetic-craft-of-peft-a-journey-with-lora-qlora-55ee6cad227b" target="_blank">here</a></samp>
-</h4>
+</p>
 
-<h4 align="center"> 
+<p align="center">
 <samp>Supervised Fine-tuning dilemma 🥀: <a href="https://medium.com/@anas.aberchih1/supervised-fine-tuning-dilemma-whats-up-with-all-those-configurations-a1f9040bb74e" target="_blank">here</a></samp>
-</h4>
+</p>
 
-<h4 align="center"> 
+<p align="center">
 <samp>Generative Models 🌸: <a href="https://medium.com/@anas.aberchih1/blooming-of-generative-models-8e70f3070be4
 " target="_blank">here</a></samp>
-</h4>
+</p>
 
-<h4 align="center"> 
+<p align="center">
 <samp>Linear Regression Assumptions:  <a href="https://medium.com/@anas.aberchih1/ensuring-model-estimation-validity-a-deep-dive-into-linear-regression-assumptions-b2e9c07e1a16" target="_blank">here</a></samp>
-</h4>
+</p>
 
 </div>
 
