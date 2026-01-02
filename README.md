@@ -19,9 +19,9 @@
 </p>
  
 <div align="center" > 
-  <a href="mailto:anas.aberchih1@gmail.com">
+  <!-- <a href="mailto:anas.aberchih1@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
+  </a> -->
   <a href="https://www.linkedin.com/in/anas-aberchih-%F0%9F%87%B5%F0%9F%87%B8-b6007121b/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
@@ -51,20 +51,23 @@
 <h2 align="center">📕 My blog posts 📕</h2>
 <div align="center">
 
+
 <h4 align="center"> 
-<samp>The Poetic Craft of PEFT: A Journey with LoRA & QLoRA 🍁: </samp> [here](https://medium.com/@anas.aberchih1/the-poetic-craft-of-peft-a-journey-with-lora-qlora-55ee6cad227b)
+<samp>The Poetic Craft of PEFT: A Journey with LoRA & QLoRA 🍁: <a href="https://medium.com/@anas.aberchih1/the-poetic-craft-of-peft-a-journey-with-lora-qlora-55ee6cad227b" target="_blank">here</a></samp>
 </h4>
 
 <h4 align="center"> 
-<samp>Supervised Fine-tuning dilemma 🥀: [here](https://medium.com/@anas.aberchih1/supervised-fine-tuning-dilemma-whats-up-with-all-those-configurations-a1f9040bb74e)</samp>
-</h4>
-    
-<h4 align="center"> 
-<samp>Generative Models 🌸: [here](https://medium.com/@anas.aberchih1/blooming-of-generative-models-8e70f3070be4)</samp>
+<samp>Supervised Fine-tuning dilemma 🥀: <a href="https://medium.com/@anas.aberchih1/supervised-fine-tuning-dilemma-whats-up-with-all-those-configurations-a1f9040bb74e" target="_blank">here</a></samp>
 </h4>
 
 <h4 align="center"> 
-<samp>Linear Regression Assumptions:[here](https://medium.com/@anas.aberchih1/ensuring-model-estimation-validity-a-deep-dive-into-linear-regression-assumptions-b2e9c07e1a16)</samp>
+<samp>Generative Models 🌸: <a href="https://medium.com/@anas.aberchih1/blooming-of-generative-models-8e70f3070be4
+" target="_blank">here</a></samp>
 </h4>
+
+<h4 align="center"> 
+<samp>Linear Regression Assumptions:  <a href="https://medium.com/@anas.aberchih1/ensuring-model-estimation-validity-a-deep-dive-into-linear-regression-assumptions-b2e9c07e1a16" target="_blank">here</a></samp>
+</h4>
+
 </div>
 
