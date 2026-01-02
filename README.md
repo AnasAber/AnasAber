@@ -36,17 +36,7 @@
 
 <br/>
 
-<h3 align="center"><samp>Stats</samp></h2>
-<!-- <h2 align="center">⚡ Stats ⚡</h2> -->
-<br>
-<!-- apprentice -->
-<div align="center">
 
-![apprentice](https://github-readme-stats.vercel.app/api?username=AnasAber&show_icons=true&theme=apprentice)<br/><br/>
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnasAber)](https://github.com/AnasAber/github-readme-stats)  -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnasAber&layout=compact&theme=radical&hide=swift,c%30)](https://github.com/AnasAber/github-readme-stats)
-
-</div>
 
 <h2 align="center">📕 My blog posts 📕</h2>
 <div align="center">
