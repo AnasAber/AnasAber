@@ -17,15 +17,6 @@
   <br>
   <img src="https://github.com/selimdoyranli/selimdoyranli/blob/master/preview.gif" width="350" />
 </p>
- 
-<div align="center" > 
-  <!-- <a href="mailto:anas.aberchih1@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a> -->
-  <a href="https://www.linkedin.com/in/anas-aberchih-%F0%9F%87%B5%F0%9F%87%B8-b6007121b/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-</div>
 
 <!-- <h3 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h3> -->
 <h3 align="center"><samp>Languages-Frameworks-Tools</samp></h2>
@@ -36,7 +27,14 @@
 
 <br/>
 
-
+<div align="center" > 
+  <!-- <a href="mailto:anas.aberchih1@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a> -->
+  <a href="https://www.linkedin.com/in/anas-aberchih-%F0%9F%87%B5%F0%9F%87%B8-b6007121b/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+</div>
 
 <h2 align="center"><samp> 📕 My blog posts </samp></h2>
 <div align="center">
